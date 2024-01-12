@@ -1,0 +1,122 @@
+[
+   {
+      "energy": 49600.0,
+      "energy_err": 0,
+      "cs": 0.008,
+      "cs_err": 0.005
+   },
+   {
+      "energy": 44500.0,
+      "energy_err": 0,
+      "cs": 0.01,
+      "cs_err": 0.006
+   },
+   {
+      "energy": 39300.0,
+      "energy_err": 0,
+      "cs": 0.012,
+      "cs_err": 0.004
+   },
+   {
+      "energy": 37800.0,
+      "energy_err": 0,
+      "cs": 0.012,
+      "cs_err": 0.004
+   },
+   {
+      "energy": 36400.0,
+      "energy_err": 0,
+      "cs": 0.015,
+      "cs_err": 0.004
+   },
+   {
+      "energy": 34900.0,
+      "energy_err": 0,
+      "cs": 0.016,
+      "cs_err": 0.005
+   },
+   {
+      "energy": 32700.000000000004,
+      "energy_err": 0,
+      "cs": 0.016,
+      "cs_err": 0.003
+   },
+   {
+      "energy": 31000.0,
+      "energy_err": 0,
+      "cs": 0.017,
+      "cs_err": 0.003
+   },
+   {
+      "energy": 29500.0,
+      "energy_err": 0,
+      "cs": 0.024,
+      "cs_err": 0.005
+   },
+   {
+      "energy": 27500.0,
+      "energy_err": 0,
+      "cs": 0.033,
+      "cs_err": 0.006
+   },
+   {
+      "energy": 24500.0,
+      "energy_err": 0,
+      "cs": 0.053,
+      "cs_err": 0.009000000000000001
+   },
+   {
+      "energy": 22200.0,
+      "energy_err": 0,
+      "cs": 0.094,
+      "cs_err": 0.016
+   },
+   {
+      "energy": 19200.0,
+      "energy_err": 0,
+      "cs": 0.18,
+      "cs_err": 0.031
+   },
+   {
+      "energy": 16300.0,
+      "energy_err": 0,
+      "cs": 0.312,
+      "cs_err": 0.053
+   },
+   {
+      "energy": 13100.0,
+      "energy_err": 0,
+      "cs": 0.293,
+      "cs_err": 0.05
+   },
+   {
+      "energy": 11800.0,
+      "energy_err": 0,
+      "cs": 0.28,
+      "cs_err": 0.045
+   },
+   {
+      "energy": 8800.0,
+      "energy_err": 0,
+      "cs": 0.196,
+      "cs_err": 0.034
+   },
+   {
+      "energy": 6600.0,
+      "energy_err": 0,
+      "cs": 0.105,
+      "cs_err": 0.028
+   },
+   {
+      "energy": 4000.0,
+      "energy_err": 0,
+      "cs": 0.026000000000000002,
+      "cs_err": 0.005
+   },
+   {
+      "energy": 1500.0,
+      "energy_err": 0,
+      "cs": 0.0013000000000000002,
+      "cs_err": 0.0009000000000000001
+   }
+]
